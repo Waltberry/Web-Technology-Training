@@ -1,0 +1,14 @@
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.exe
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.deps.json
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.runtimeconfig.json
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.dll
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.pdb
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.AssemblyInfoInputs.cache
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.AssemblyInfo.cs
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.csproj.CoreCompileInputs.cache
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.dll
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\refint\coreConsoleProject.dll
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.pdb
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.genruntimeconfig.cache
+D:\Coursera\Web-Technology-Training\dotnet projects\coreConsoleProject\obj\Debug\net7.0\ref\coreConsoleProject.dll
