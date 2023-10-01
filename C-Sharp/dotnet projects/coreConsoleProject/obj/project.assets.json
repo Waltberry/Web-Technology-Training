@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coursera\\Web-Technology-Training\\dotnet projects\\coreConsoleProject\\coreConsoleProject.csproj",
+      "projectUniqueName": "d:\\Coursera\\Web-Technology-Training\\C-Sharp\\dotnet projects\\coreConsoleProject\\coreConsoleProject.csproj",
       "projectName": "coreConsoleProject",
-      "projectPath": "D:\\Coursera\\Web-Technology-Training\\dotnet projects\\coreConsoleProject\\coreConsoleProject.csproj",
+      "projectPath": "d:\\Coursera\\Web-Technology-Training\\C-Sharp\\dotnet projects\\coreConsoleProject\\coreConsoleProject.csproj",
       "packagesPath": "C:\\Users\\Walt\\.nuget\\packages\\",
-      "outputPath": "D:\\Coursera\\Web-Technology-Training\\dotnet projects\\coreConsoleProject\\obj\\",
+      "outputPath": "d:\\Coursera\\Web-Technology-Training\\C-Sharp\\dotnet projects\\coreConsoleProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Walt\\AppData\\Roaming\\NuGet\\NuGet.Config"
